@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS r14_tech_blog;
+
+CREATE DATABASE r14_tech_blog;
